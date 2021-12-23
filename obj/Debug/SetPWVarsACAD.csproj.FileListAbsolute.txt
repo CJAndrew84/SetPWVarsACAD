@@ -1,0 +1,6 @@
+C:\Users\chris\OneDrive\Documents\GitHub\SetPWVarsACAD\obj\Debug\SetPWVarsACAD.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\GitHub\SetPWVarsACAD\obj\Debug\SetPWVarsCE.Properties.Resources.resources
+C:\Users\chris\OneDrive\Documents\GitHub\SetPWVarsACAD\obj\Debug\SetPWVarsACAD.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Documents\GitHub\SetPWVarsACAD\obj\Debug\SetPWVarsACAD.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\GitHub\SetPWVarsACAD\obj\Debug\SetPWVarsCE.dll
+C:\Users\chris\OneDrive\Documents\GitHub\SetPWVarsACAD\obj\Debug\SetPWVarsCE.pdb
